@@ -1,0 +1,11 @@
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.exe
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.deps.json
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.json
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.dll
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\bin\Debug\netcoreapp3.1\hw3.pdb
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.dll
+C:\Users\Igor\Desktop\Programming-Projects\C#\hw3\hw3\obj\Debug\netcoreapp3.1\hw3.pdb
